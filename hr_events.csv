@@ -1,0 +1,4 @@
+action,first_name,last_name,email,department,manager,start_date,end_date
+create,Jane,Smith,jsmith@yourdomain.com,Engineering,manager@yourdomain.com,2024-01-15,
+update,Jane,Smith,jsmith@yourdomain.com,Security,newmanager@yourdomain.com,,
+deactivate,Jane,Smith,jsmith@yourdomain.com,,,,2024-06-01
