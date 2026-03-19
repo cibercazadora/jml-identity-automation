@@ -5,3 +5,4 @@ identity-lab/
 *.pyc
 venv/
 .venv/
+.env
