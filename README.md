@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JML Identity Lifecycle Automation
 
 A Python-based joiner/mover/leaver (JML) automation tool that connects to Microsoft Graph API to manage user identity lifecycle events in real time. Built as a hands-on identity engineering lab to demonstrate enterprise IAM automation patterns.
@@ -201,6 +200,3 @@ Every create, update, deactivate, and failure is written to an audit log with a 
 Priscilla Lopez
 CISSP | GCPN | GCHFI
 linkedin.com/in/p-g-lopez
-=======
-# jml-identity-automation
->>>>>>> bd8a22a669f70bd0fb5964f9712481ed2377e78c
