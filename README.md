@@ -87,7 +87,7 @@ jml-identity-automation/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/jml-identity-automation
+git clone https://github.com/lacasadora/jml-identity-automation
 cd jml-identity-automation
 ```
 
@@ -110,7 +110,7 @@ AZURE_TENANT_ID=your-tenant-id
 
 **4. Prepare your HR events file**
 
-Edit `hr_events.csv` using this format:
+Edit `hr_events.csv` using this format in same directory as script:
 ```
 action,first_name,last_name,email,department,manager,start_date,end_date
 create,Jane,Smith,jsmith@yourdomain.onmicrosoft.com,Engineering,manager@yourdomain.com,2024-01-15,
@@ -120,7 +120,7 @@ deactivate,Jane,Smith,jsmith@yourdomain.onmicrosoft.com,,,,2024-06-01
 
 **5. Run the script**
 ```bash
-python jml_automation.py
+python3 jml_automation.py
 ```
 
 ---
