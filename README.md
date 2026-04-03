@@ -87,7 +87,7 @@ jml-identity-automation/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/lacasadora/jml-identity-automation
+git clone https://github.com/cibercazadora/jml-identity-automation
 cd jml-identity-automation
 ```
 
@@ -198,5 +198,5 @@ Every create, update, deactivate, and failure is written to an audit log with a 
 ## Author
 
 Priscilla Lopez
-CISSP | GCPN | GCHFI
+CISSP | GCPN
 linkedin.com/in/p-g-lopez
