@@ -6,3 +6,4 @@ identity-lab/
 venv/
 .venv/
 .env
+jml_audit.log
